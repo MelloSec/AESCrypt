@@ -1,0 +1,15 @@
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Mellosec\AESCrypt\bin\Debug\net6.0\AESCrypt.exe
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Mellosec\AESCrypt\bin\Debug\net6.0\AESCrypt.deps.json
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Mellosec\AESCrypt\bin\Debug\net6.0\AESCrypt.runtimeconfig.json
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Mellosec\AESCrypt\bin\Debug\net6.0\AESCrypt.dll
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Mellosec\AESCrypt\bin\Debug\net6.0\AESCrypt.pdb
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Debug\net6.0\AESCrypt.csproj.AssemblyReference.cache
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Debug\net6.0\AESCrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Debug\net6.0\AESCrypt.AssemblyInfoInputs.cache
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Debug\net6.0\AESCrypt.AssemblyInfo.cs
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Debug\net6.0\AESCrypt.csproj.CoreCompileInputs.cache
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Debug\net6.0\AESCrypt.dll
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Debug\net6.0\refint\AESCrypt.dll
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Debug\net6.0\AESCrypt.pdb
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Debug\net6.0\AESCrypt.genruntimeconfig.cache
+C:\Users\RleeA\vsworksapce\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Debug\net6.0\ref\AESCrypt.dll

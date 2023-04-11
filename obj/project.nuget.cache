@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c76vrHyylwJncpG6u7cOxUM6VmwPO80Mhf6aRS9q+V2B0EoM93w5wO+CIeubOoHi0JV3AVaiC/Jcisf7ZsWoiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RleeA\\vsworksapce\\Code\\GitHubProjects\\2023\\Mellosec\\AESCrypt\\AESCrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RleeA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\RleeA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\RleeA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\RleeA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
