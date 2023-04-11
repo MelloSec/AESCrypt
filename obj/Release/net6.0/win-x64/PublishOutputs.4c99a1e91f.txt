@@ -1,0 +1,2 @@
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\bin\Release\net6.0\win-x64\publish\AESCrypt.pdb
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\bin\Release\net6.0\win-x64\publish\AESCrypt.exe

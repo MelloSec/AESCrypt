@@ -1,7 +1,8 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {},
+    "net6.0/win-x64": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
@@ -14,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RleeA\\vsworksapce\\Code\\GitHubProjects\\2023\\Mellosec\\AESCrypt\\AESCrypt.csproj",
+      "projectUniqueName": "C:\\Users\\RleeA\\OneDrive\\vsWorkspace\\Code\\GitHubProjects\\2023\\Mellosec\\AESCrypt\\AESCrypt.csproj",
       "projectName": "AESCrypt",
-      "projectPath": "C:\\Users\\RleeA\\vsworksapce\\Code\\GitHubProjects\\2023\\Mellosec\\AESCrypt\\AESCrypt.csproj",
+      "projectPath": "C:\\Users\\RleeA\\OneDrive\\vsWorkspace\\Code\\GitHubProjects\\2023\\Mellosec\\AESCrypt\\AESCrypt.csproj",
       "packagesPath": "C:\\Users\\RleeA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RleeA\\vsworksapce\\Code\\GitHubProjects\\2023\\Mellosec\\AESCrypt\\obj\\",
+      "outputPath": "C:\\Users\\RleeA\\OneDrive\\vsWorkspace\\Code\\GitHubProjects\\2023\\Mellosec\\AESCrypt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -84,6 +85,11 @@
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
       }
     }
   }

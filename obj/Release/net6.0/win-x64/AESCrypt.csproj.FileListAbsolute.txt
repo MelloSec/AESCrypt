@@ -1,0 +1,15 @@
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\bin\Release\net6.0\win-x64\AESCrypt.exe
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\bin\Release\net6.0\win-x64\AESCrypt.deps.json
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\bin\Release\net6.0\win-x64\AESCrypt.runtimeconfig.json
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\bin\Release\net6.0\win-x64\AESCrypt.dll
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\bin\Release\net6.0\win-x64\AESCrypt.pdb
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Release\net6.0\win-x64\AESCrypt.csproj.AssemblyReference.cache
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Release\net6.0\win-x64\AESCrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Release\net6.0\win-x64\AESCrypt.AssemblyInfoInputs.cache
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Release\net6.0\win-x64\AESCrypt.AssemblyInfo.cs
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Release\net6.0\win-x64\AESCrypt.csproj.CoreCompileInputs.cache
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Release\net6.0\win-x64\AESCrypt.dll
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Release\net6.0\win-x64\refint\AESCrypt.dll
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Release\net6.0\win-x64\AESCrypt.pdb
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Release\net6.0\win-x64\AESCrypt.genruntimeconfig.cache
+C:\Users\RleeA\OneDrive\vsWorkspace\Code\GitHubProjects\2023\Mellosec\AESCrypt\obj\Release\net6.0\win-x64\ref\AESCrypt.dll
